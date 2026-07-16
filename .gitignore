@@ -1,7 +1,10 @@
-﻿# 原始题库 JSON（学习通平台内容，不公开）
-course_name/
+# 示例题库（1-2章作为公开范例，其余章节不公开）
+course_name/*.json
+!course_name/1.json
+!course_name/2.json
 
 # 系统 / 编辑器临时文件
 *.bak
 Thumbs.db
 .DS_Store
+
