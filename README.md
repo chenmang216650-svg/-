@@ -17,14 +17,6 @@
 | `quiz.html` | 纯前端复习页面，支持导入 JSON 后逐题练习，含错题本、进度统计、快速跳转 |
 | `course_name/` | 各章节题库 JSON（随 gitignore，不公开，需自行导出） |
 
-## 项目文件
-
-| 文件 | 说明 |
-|------|------|
-| cx_question_scraper.user.js | Tampermonkey 用户脚本，在学习通页面添加「导出选择题」按钮，提取题目、选项和答案并导出为 JSON |
-| quiz.html | 纯前端复习页面，支持导入 JSON 后逐题练习，含错题本、进度统计 |
-| course_name/ | 各章节题库 JSON（未随仓库发布，需自行导出） |
-
 ## 使用流程
 ### 1. 安装脚本
 
